@@ -1,0 +1,120 @@
+@media screen and (max-width: 992px) {
+    .main-text{
+      font-size: 15rem;
+      top:30%;
+      left: 50%;
+      transform: translate(-50%);
+
+    }
+
+    .find-your-balance{
+      position: absolute;
+      font-size: 1rem;
+      top: 43%;
+      left: 6%;
+      height:70px;
+      width: 100px;
+    }
+
+    .header-image{
+        top:15%;
+    }
+
+    .header-image img{
+      width: 550px;
+    }
+
+    .beat{
+      position: absolute;
+      top:60%;
+      color:#2e2e2e;
+      right:5.5%;
+      font-size: 1.1rem;
+      z-index: 12;
+    }
+
+    .scroll-down{
+      position: absolute;
+      top:92%;
+      font-size: 10px;
+      left:-0.9%;
+      transform: rotate(90deg);
+      color:#bea987;
+      font-weight:bolder;
+      text-transform: uppercase;
+    }
+
+    .nav-bar li{
+      display: inline-block;
+      padding-right: 7px;
+      margin-top: 20px;
+      font-size: 14px;
+  }
+
+    .social-media li{
+      display: inline-block;
+      padding: 18px 30px 10px 0;
+      font-size: 12px;
+}
+
+    .logo img{
+      width:70px;
+      margin-left: 5px;
+  }
+
+.more-info-text h1{
+  font-size: 1.2rem;
+}
+
+.more-info-text{
+  position: absolute;
+  width: 44%;
+  height: 100%;
+  margin: 20px 90px 20px 2px;
+  padding: 2% 0 0 50px;
+}
+
+.more-info-text p{
+  font-size: .7rem;
+}
+
+.button-3{
+  font-size:.6rem;
+}
+
+.heading h1{
+  position: absolute;
+  width: 90%;
+  top: 15%;
+  font-size: 3rem;
+  margin-top: 4px;
+}
+
+.sub-heading{
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%);
+  width: 150%;
+  height: 50px;
+  line-height: 25px;
+}
+
+.button-4{
+  font-size: .6rem;
+}
+
+.top-top{
+  font-size: 35px;
+}
+
+
+}
+
+.accents-1{
+  font-size: 4rem;
+}
+
+.accents-2{
+  font-size: 2rem;
+}
